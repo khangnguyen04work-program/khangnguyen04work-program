@@ -12,7 +12,7 @@ I’m a sophomore majoring in AI & Business Analytics in the US. I have a huge p
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-### 🤖 AI, LLMs & Advanced Analytics
+### 👾 AI, LLMs & Advanced Analytics
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge&logo=google&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
@@ -23,5 +23,5 @@ I’m a sophomore majoring in AI & Business Analytics in the US. I have a huge p
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-9CE311?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🧠 Workspace & Productivity
+### 👨🏻‍💻 Workspace & Productivity
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
